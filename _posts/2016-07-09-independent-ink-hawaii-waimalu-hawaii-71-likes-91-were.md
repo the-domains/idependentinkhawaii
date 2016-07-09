@@ -20,10 +20,10 @@ description: >-
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/pages/Independent-Ink-Hawaii/1600765940251981'
-datePublished: '2016-07-09T05:17:03.172Z'
-dateModified: '2016-07-09T05:17:02.846Z'
+datePublished: '2016-07-09T05:18:24.562Z'
+dateModified: '2016-07-09T05:18:24.095Z'
 sourcePath: _posts/2016-07-09-independent-ink-hawaii-waimalu-hawaii-71-likes-91-were.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
