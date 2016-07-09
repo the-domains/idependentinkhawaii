@@ -4,8 +4,15 @@
         <description><![CDATA[IndependentInkHawaii]]></description>
         <link>https://thegrid.ai/independentinkhawaii/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 04:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 04:40:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/independentinkhawaii/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Owners]]></title>
+            <description><![CDATA[<article><h1>The Owners</h1><h2>Gerard Gil </h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62d08d37-03ea-467f-8d06-d90857944052.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/62d08d37-03ea-467f-8d06-d90857944052.jpg</link>
+            <guid isPermaLink="false">a33e226e-0793-4847-90b7-b1bbcb03290c</guid>
+            <pubDate>Sat, 09 Jul 2016 04:40:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/trbower</link>
@@ -65,12 +72,6 @@
             <link>https://www.facebook.com/michael.christopher.735944?fref=ts</link>
             <guid isPermaLink="false">88d79d9c-2fd1-4a8f-bf27-3dcc93e5f31c</guid>
             <pubDate>Sat, 09 Jul 2016 04:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.facebook.com/trbower</link>
-            <guid isPermaLink="false">64c7637f-cc49-4f8a-89eb-792b14a81200</guid>
-            <pubDate>Sat, 09 Jul 2016 04:16:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
