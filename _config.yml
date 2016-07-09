@@ -12,6 +12,9 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe2f65b-d963-4bc1-aba8-228fa829df31.jpg
 layout_spectrum: 0.12894055526703596
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3adab7-fc79-49f3-b7c9-e9491576ca88.jpg
