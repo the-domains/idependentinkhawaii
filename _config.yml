@@ -2,16 +2,16 @@ typography_spectrum: 0.6206314915325493
 content_rating:
   adult: true
 color:
-  brandStrength: 0.694029025034979
-  lightness: 0.3011002403218299
-  saturation: 0.7791957720182836
-  rhythmicContrast: 0.8796717496588826
+  brandStrength: 0.2705184523947537
+  lightness: 0.46458974201232195
+  saturation: 0.5302695198915899
+  rhythmicContrast: 0.6827791770920157
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe2f65b-d963-4bc1-aba8-228fa829df31.jpg
