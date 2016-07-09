@@ -1,11 +1,11 @@
-typography_spectrum: 0.8598314493428916
+typography_spectrum: 0.38346644141711295
 content_rating:
   adult: true
 color:
-  brandStrength: 0.5450864143203944
-  lightness: 0.9291144430171698
-  saturation: 0.9611780361738056
-  rhythmicContrast: 0.08547034906223416
+  brandStrength: 0.694029025034979
+  lightness: 0.3011002403218299
+  saturation: 0.7791957720182836
+  rhythmicContrast: 0.8796717496588826
   brandColors:
     - '#2E0927'
     - '#D90000'
@@ -15,7 +15,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe2f65b-d963-4bc1-aba8-228fa829df31.jpg
-layout_spectrum: 0.12894055526703596
+layout_spectrum: 0.7327112338971347
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3adab7-fc79-49f3-b7c9-e9491576ca88.jpg
 name: IndependentInkHawaii
