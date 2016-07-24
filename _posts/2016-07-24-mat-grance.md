@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-24T22:39:51.920Z'
+datePublished: '2016-07-24T22:59:39.837Z'
 sourcePath: _posts/2016-07-24-mat-grance.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T22:39:51.054Z'
+dateModified: '2016-07-24T22:59:38.713Z'
 title: Mat Grance
 publisher: {}
 description: Tattoo Artist and Piercings
@@ -19,13 +19,7 @@ _type: Article
 
 Tattoo Artist and Piercings
 
-* Born in Mililani, Hawaii
-* Enlisted 2005-2008
-* Favorite Past-Time: Fishing
-* Art Experience: 8yrs as a tattoo artist
-* Favored Art Style: Asian, Tribal (Poynesian), any art that has multiple colors
-
-Quote:
+* Quote:
 
 _---The early bird gets the worm, but it's the second mouse that gets the cheese.---_
 
