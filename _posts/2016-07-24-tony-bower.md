@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-24T22:09:51.795Z'
+datePublished: '2016-07-24T23:28:26.034Z'
 sourcePath: _posts/2016-07-24-tony-bower.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T22:09:51.031Z'
+dateModified: '2016-07-24T23:28:25.114Z'
 title: Tony Bower
 publisher: {}
 description: Co-Owner and Money Guy
@@ -21,6 +21,6 @@ Co-Owner and Money Guy
 
 * Born in Honolulu, Hawaii
 * Favorite Past-Time: Singing, Joking and Laughing
-* Art Experience: 0yrs asan artist, lifetime of loving art!
+* Art Experience: 0yrs as an artist, lifetime of loving art!
 
 Quote: _**---I'm Hungry---**_
