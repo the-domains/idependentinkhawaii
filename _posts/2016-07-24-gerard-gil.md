@@ -1,13 +1,13 @@
 ---
 description: Co-Owner and Tattoo Artist
-dateModified: '2016-07-24T21:14:48.980Z'
-datePublished: '2016-07-24T21:14:49.796Z'
+dateModified: '2016-07-24T21:21:02.337Z'
+datePublished: '2016-07-24T21:21:04.145Z'
 title: Gerard Gil
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-24-gerard-gil.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
