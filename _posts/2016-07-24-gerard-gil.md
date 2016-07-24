@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-24T22:00:56.778Z'
+datePublished: '2016-07-24T22:02:18.013Z'
 sourcePath: _posts/2016-07-24-gerard-gil.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T22:00:55.787Z'
+dateModified: '2016-07-24T22:02:16.943Z'
 title: Gerard Gil
 publisher: {}
 description: Co-Owner and Tattoo Artist
@@ -19,12 +19,13 @@ _type: Article
 
 Co-Owner and Tattoo Artist
 
-* Born in Los Angeles, California
-* Enlisted 2004-2013
-* 3 Deployments: Iraq(2) Afghanistan (1)
-* Degree in Business Management
-* Art Experience: 10yrs as a tattoo artist
-* FavoredArtStyle: Realism, Black and Gray, SoCal(Southern California Style)
+Born in Los Angeles, California
+
+1. Enlisted 2004-2013
+2. 3 Deployments: Iraq(2) Afghanistan (1)
+3. Degree in Business Management
+4. Art Experience: 10yrs as a tattoo artist
+5. FavoredArtStyle: Realism, Black and Gray, SoCal(Southern California Style)
 
 Quote: _**---People live to die, but I had to die to live.---**_
 
