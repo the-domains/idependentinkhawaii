@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-24T22:12:57.758Z'
+datePublished: '2016-07-24T23:35:55.200Z'
 sourcePath: _posts/2016-07-24-gavin-gonsalves.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T22:12:56.715Z'
+dateModified: '2016-07-24T23:35:54.417Z'
 title: Gavin Gonsalves
 publisher: {}
 description: Tattoo Artist
-inNav: true
+inNav: false
 starred: false
 url: gavin-gonsalves/index.html
 _type: Article
