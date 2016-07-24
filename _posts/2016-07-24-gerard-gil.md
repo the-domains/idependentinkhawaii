@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-24T23:30:56.872Z'
+datePublished: '2016-07-24T23:41:46.479Z'
+sourcePath: _posts/2016-07-24-gerard-gil.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T23:30:56.147Z'
+dateModified: '2016-07-24T23:41:45.102Z'
 title: Gerard Gil
 publisher: {}
 description: Co-Owner and Tattoo Artist
 starred: false
-sourcePath: _posts/2016-07-24-gerard-gil.md
 url: gerard-gil/index.html
 _type: Article
 
@@ -26,14 +26,14 @@ Co-Owner and Tattoo Artist
 * Favored Art Styles: Realism, Black and Grey, SoCal(Southern California Style)
 
 Quote: _--- People live to die, but I had to die to live ---_
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01b16cc399428d95acbd8cc930d312dc/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F77fe54f3-0669-47cd-9830-c60b3e01fb77.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/24d8ca474900e8e93a15254edd55b3cbebcf3b61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04d171f9-5c08-4d60-a2d8-1472a0834c7a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265a7bb0-12eb-4793-8b4e-d740dcfbec82.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28daeadfb42e2aad22795294fc139043/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd456ec52-cf40-447a-9652-a08ba016cde2.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d4de8d84e9631dacd902fbe57dfb625299e7f49.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51fd1adb-7ceb-492e-a8e0-d0ac007fd92a.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0422f72b05c36cceef4a9d9c3f0dc184/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0a5c856b-8ab4-40ba-92a6-67740e8a0a27.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ced9859e914b4304e73529e6e9028314/croprotate.jpg?cropheight=2297&cropwidth=3444&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F30c7d79a-77b6-4473-94c1-78d633d0f8d4.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4445313d039451927938f74f66afeae9/croprotate.jpg?cropheight=4528&cropwidth=3210&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdd3f3f57-d104-4b8f-a21e-536797b9e7e7.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59aeb9cf2974cda554bc075bf1808f57bca0b6d6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a6eb263843a5eb3f3fa125aa257dba94a082002.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7c9952fe62dcbe662848523f14d7d9165e525ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cef5c7-5164-4a6b-93ce-6751bc323c0c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50dbce4a-4543-4dd0-8515-8089fc262725.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94fcf968-601d-4772-bc3f-3e9946b9dbdd.jpg)
@@ -42,7 +42,7 @@ Quote: _--- People live to die, but I had to die to live ---_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ab232a4-3b10-4b14-96f4-6115eda7cc78.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b4bb147-3545-40d5-8821-d5cc33118693.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d74c46-19b0-4a0c-b90a-1c2168e42ab4.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7d7348cfd3a9dc22804715bb7737d66/croprotate.jpg?cropheight=2297&cropwidth=3444&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1eb02127-d754-4409-a61a-13eaa3ed2f49.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd53cdb829cd3077a7586163733fbe7369200434.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa5e04b0-780a-4544-b059-68abdd770dd2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d5b4235-6a89-4624-93e0-8b11bc4067cd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7085fedf-1a46-49e3-8042-dd90b27f23b6.jpg)
@@ -57,10 +57,10 @@ Quote: _--- People live to die, but I had to die to live ---_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38bc2c20-34f4-43f5-80ca-4814dd1f8bcf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b97f376-9e42-48f3-b080-6f8f9d65c381.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5cd58f-de0e-4155-92a7-5a9b1f732f57.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0d01ad99dbd956ccad39f7616d56843e/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4140664e-44c4-4247-bac0-0b030556a791.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72358a15e807c8099c4214239a55b21663ee61d1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdf5e532-9e4a-4f69-83ed-1a80af33649a.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e5710b4b984793be13d10bf5282a60a/croprotate.jpg?cropheight=968&cropwidth=968&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fabb59aef-11d6-451f-a14e-112d30fd95fb.jpg&x=16&y=16)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/417a6427b46abc02b918a5e8f4b393e3/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F86831407-fd85-4cff-8785-5211eb7e34a6.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad1e65ac9603887b2c6d6353584bbabb/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fce82d3d5-0c27-45ca-a199-4607fef0c61f.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/728171abbda00e0d8f6fb87fc5b2eab829657c12.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eeacba41310beb5c5c6bc27c690f2b1de0e6e359.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a81ce1e8816b9c35ee8294f16fcd69e9b8c4a22.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d11f3adc-4add-4158-bdb7-56c27054330c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/593c7337-ab04-4656-afdd-33aca5398e1c.jpg)
