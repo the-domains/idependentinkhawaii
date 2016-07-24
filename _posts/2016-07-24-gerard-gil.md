@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-24T22:44:27.413Z'
+datePublished: '2016-07-24T22:53:56.774Z'
 sourcePath: _posts/2016-07-24-gerard-gil.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T22:44:26.373Z'
+dateModified: '2016-07-24T22:53:55.378Z'
 title: Gerard Gil
 publisher: {}
 description: Co-Owner and Tattoo Artist
@@ -21,7 +21,7 @@ Co-Owner and Tattoo Artist
 
 * Born in Los Angeles, California
 * Enlisted 2004-2013
-* 3 Deployments Tours: Iraq (2) and Afghanistan (1)
+* 3 Deployments: Iraq (2) and Afghanistan (1)
 * Holds a degree in Business Management
 * Art Experience of 10yrs as a tattoo artist
 * Favored Art Styles: Realism, Black and Grey, SoCal(Southern California Style)
