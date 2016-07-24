@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-07-24T21:52:47.200Z'
+datePublished: '2016-07-24T21:56:34.649Z'
 sourcePath: _posts/2016-07-24-gerard-gil.md
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-07-24T21:52:45.181Z'
+dateModified: '2016-07-24T21:56:33.918Z'
 title: Gerard Gil
 publisher: {}
 description: Co-Owner and Tattoo Artist
 inNav: true
 starred: true
-url: gerard-gil/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Gerard Gil
