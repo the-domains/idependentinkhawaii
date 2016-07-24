@@ -19,4 +19,9 @@ layout_spectrum: 0.6925320089794695
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3adab7-fc79-49f3-b7c9-e9491576ca88.jpg
 name: Independent Ink Hawaii
+navigation:
+  - id: a60b5c0c-2bc4-450e-80c1-3f84591b1bde
+    url: 2016-07-24-gerard-gil.html
+    name: Gerard Gil
+    type: content
 title: Let Your Art Set You Apart. Be Independent.
