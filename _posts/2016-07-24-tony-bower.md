@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-24T22:01:14.317Z'
+datePublished: '2016-07-24T22:09:51.795Z'
 sourcePath: _posts/2016-07-24-tony-bower.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T22:01:12.917Z'
+dateModified: '2016-07-24T22:09:51.031Z'
 title: Tony Bower
 publisher: {}
 description: Co-Owner and Money Guy
-inNav: true
+inNav: false
 starred: false
 url: tony-bower/index.html
 _type: Article
