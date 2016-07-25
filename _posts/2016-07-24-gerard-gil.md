@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-25T00:11:01.037Z'
+datePublished: '2016-07-25T03:00:13.056Z'
 sourcePath: _posts/2016-07-24-gerard-gil.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-25T00:10:59.182Z'
+dateModified: '2016-07-25T03:00:12.213Z'
 title: Gerard Gil
 publisher: {}
 description: Co-Owner and Tattoo Artist
@@ -26,7 +26,7 @@ Co-Owner and Tattoo Artist
 * Art Experience of 10yrs as a tattoo artist
 * Favored Art Styles: Realism, Black and Grey, SoCal(Southern California Style)
 
-Quote: _--- People live to die, but I had to die to live ---_
+Quote: _**--- People live to die, but I had to die to live ---**_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/24d8ca474900e8e93a15254edd55b3cbebcf3b61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04d171f9-5c08-4d60-a2d8-1472a0834c7a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265a7bb0-12eb-4793-8b4e-d740dcfbec82.jpg)
