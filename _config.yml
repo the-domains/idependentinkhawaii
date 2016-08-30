@@ -1,10 +1,20 @@
-typography_spectrum: 0.5607887040823698
-content_rating:
-  adult: true
+title: Let Your Art Set You Apart. Be Independent.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: INKHI
 color:
-  brandStrength: 0.2705184523947537
-  lightness: 0.46458974201232195
   saturation: 0.5302695198915899
+  brandStrength: 0.2705184523947537
   rhythmicContrast: 0.6827791770920157
   brandColors:
     - '#000000'
@@ -12,17 +22,19 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe2f65b-d963-4bc1-aba8-228fa829df31.jpg
-layout_spectrum: 0.47595865884795785
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3adab7-fc79-49f3-b7c9-e9491576ca88.jpg
-name: Independent Ink Hawaii
+  lightness: 0.4645897420123219
 navigation:
   - name: Like Us On Facebook
     url: >-
       https://www.facebook.com/pages/Independent-Ink-Hawaii/1600765940251981?fref=ts
     type: external
-title: Let Your Art Set You Apart. Be Independent.
-description: INKHI
+name: Independent Ink Hawaii
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe2f65b-d963-4bc1-aba8-228fa829df31.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3adab7-fc79-49f3-b7c9-e9491576ca88.jpg
+typography_spectrum: 0.5607887040823698
+layout_spectrum: 0.9551972
+content_rating:
+  adult: true
